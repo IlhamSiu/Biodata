@@ -106,7 +106,7 @@ nav ul li a:hover { color: #3498db; }
     display: flex;
     justify-content: center;
     align-items: stretch;
-    gap: 12px;
+    gap: 20px;
     flex-wrap: wrap;
     margin: 0 auto;
 }
