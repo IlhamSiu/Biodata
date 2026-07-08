@@ -254,8 +254,8 @@ nav ul li a:hover { color: #3498db; }
 }
 
 .sport-card {
-    width: 300px;
-    max-width: 300px;
+    width: 100%;
+    max-width: 1000px;
 }
 
 .hobby-group {
